@@ -5,3 +5,4 @@ Repository ini berguna untuk sayembara pencarian volunteer untuk pembuatan aplik
 
 Berikut daftar portofolio yang diterima :  
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Kadek Boy Brahmanda Satrya Montana
